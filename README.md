@@ -79,9 +79,15 @@
 
 ### 2.3 면 내부를 채우는 알고리즘
 큐브의 각 면을 그리는 과정입니다.
-- 사각형의 큐브에서 마주보는 꼭짓점을 startPoint와 endPoint로 두고 startPoint에서 endpoint로의 직선의 방정식을 구합니다.
-- crossPoint라는 점이 직선의 방정식을 따라서 한칸씩 전진합니다.
-- 이때 한 칸씩 전진하면서 crossPoint로부터 큐브의 마주보는점 bottomPoint, topPoint로 직선의 방정식을 이용해 선을 그리며 면 내부를 채웁니다.
+- 사각형의 큐브에서 마주보는 꼭짓점을 startPoint와 endPoint로 두고 startPoint에서 endpoint로의 직선의 방정식을 구합니다.\
+	<img width="240" height="160" alt="image" src="https://github.com/user-attachments/assets/a49f8dd1-78f0-411c-a1c7-ef315b63f915" />
+
+- crossPoint라는 점이 직선의 방정식을 따라서 한칸씩 전진합니다.\
+	<img width="240" height="160" alt="image" src="https://github.com/user-attachments/assets/6ad55358-64e3-4601-aff0-982db50fbdd3" />
+
+- 이때 한 칸씩 전진하면서 crossPoint로부터 큐브의 마주보는점 bottomPoint, topPoint로 직선의 방정식을 이용해 선을 그리며 면 내부를 채웁니다.\
+	<img width="240" height="160" alt="image" src="https://github.com/user-attachments/assets/61fba144-990d-49e3-be35-a4befd959ac1" />
+
 
 ```c
 // 하나의 면을 채우는 함수
