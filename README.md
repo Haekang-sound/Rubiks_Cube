@@ -1,6 +1,10 @@
-콘솔 미니게임 프로젝트 : Rubik's Cube
-
 <img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/66751917-407c-4807-b103-0a52212866a7" />
+
+# 콘솔 미니게임 프로젝트 : Rubik's Cube
+
+실행환경 : 64x, (Debug/Release)
+
+게임영상 : [https://youtu.be/avXhfSrf8Zw](https://www.youtube.com/watch?v=3WaL6Gb0FH8)
 
 ## 1. 프로젝트 개요
   Rubik's Cube는 C언어 학습을 목표로 제가 처음으로 만들어본 게임입니다.
