@@ -76,7 +76,7 @@
 - 한 면을 구성하는 두 벡터를 외적하여 면에 수직한 벡터를 계산합니다.
 - 수직 벡터와 시선 벡터를 내적합니다.
 - 내적 결과가 0보다 작으면 면이 사용자를 바라보지 않으므로 해당 면을 그리지 않습니다.
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/5902dfb8-bd7f-48d6-b7f2-80c0d45e80f4" /><img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/31e5f8f3-4962-472c-b7b8-b405dc41d712" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/5902dfb8-bd7f-48d6-b7f2-80c0d45e80f4" /> before <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/31e5f8f3-4962-472c-b7b8-b405dc41d712" /> after
 
 
 ### 2.3 면 내부를 채우는 알고리즘
