@@ -2,8 +2,8 @@
 
 # 콘솔 미니게임 프로젝트 : Rubik's Cube
 
-실행환경 : 64x, (Debug/Release)
-
+실행환경 : 64x, (Debug/Release)\
+실행파일 : RubiksCube.sln\
 게임영상 : [https://youtu.be/avXhfSrf8Zw](https://www.youtube.com/watch?v=3WaL6Gb0FH8)
 
 ## 1. 프로젝트 개요
